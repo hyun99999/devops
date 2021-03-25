@@ -55,4 +55,4 @@ push after commit
 <img src= "https://user-images.githubusercontent.com/69136340/112506300-f484f400-8dd0-11eb-8bd4-23a7a698ef65.png" width="300">
 
 - show branch with 'fork'
-<img src ="https://user-images.githubusercontent.com/69136340/112507875-66117200-8dd2-11eb-8b14-52004ece647b.png" width="300>
+<img src = "https://user-images.githubusercontent.com/69136340/112507875-66117200-8dd2-11eb-8b14-52004ece647b.png" width="300">
