@@ -29,6 +29,7 @@ commit message(이슈 종료까지)
 close #이슈번호
 ```
 왜 종료안되징?
+>default branch 에 push 해야만 적용된다.
 
 - merge develop into feature/#1
 
@@ -49,6 +50,3 @@ push after commit
 
 - pull requests #2
 <img src = "https://user-images.githubusercontent.com/69136340/112497539-0fec0100-8dc9-11eb-830d-ce5d02894aff.png" width="300">
-
-- close issue!
-<img src="" width="">
