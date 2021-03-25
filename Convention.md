@@ -44,7 +44,8 @@ xcode 에서 push after commit
 <img src="https://user-images.githubusercontent.com/69136340/112493790-d1a11280-8dc5-11eb-8cd6-6017d307bfe7.png" width="300">
 
 - merge develop into feature/#2
-<img src="https://user-images.githubusercontent.com/69136340/112495522-504a7f80-8dc7-11eb-81f3-f7460dcf3a6f.png" width="300">
+
+push after commit
 
 - pull requests #2
 <img src = "https://user-images.githubusercontent.com/69136340/112496509-25acf680-8dc8-11eb-99eb-cb3e9dc90d8f.png" width="300">
