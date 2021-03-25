@@ -48,10 +48,7 @@ xcode 에서 push after commit
 push after commit
 
 - pull requests #2
-<img src = "https://user-images.githubusercontent.com/69136340/112496509-25acf680-8dc8-11eb-99eb-cb3e9dc90d8f.png" width="300">
+<img src = "https://user-images.githubusercontent.com/69136340/112497539-0fec0100-8dc9-11eb-830d-ce5d02894aff.png" width="300">
 
 - close issue!
 <img src="" width="">
-
-
-- label 생성 방법
