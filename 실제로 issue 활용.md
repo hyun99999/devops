@@ -1,4 +1,3 @@
-# Convention
 ☔ issue, milestone, project 를 활용한 협업을 위한 공부.
 
 - project 생성
