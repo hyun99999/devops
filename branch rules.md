@@ -2,7 +2,7 @@
 
 - git-flow 사용
 - feature 브랜치에는 이슈번호로만 작성
-> featrue/#1
+  > featrue/#1
 
 - main
 - develop
