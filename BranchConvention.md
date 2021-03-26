@@ -22,4 +22,6 @@
 - 이때, 다음 번 배포(Release)를 위한 개발 작업은 ‘develop’ 브랜치에서 계속 진행해 나간다.
 <img src ="https://user-images.githubusercontent.com/69136340/112574867-8b35cd00-8e32-11eb-9b7d-d8f6f23d0e96.png" width="500">
 
+<img src = "https://user-images.githubusercontent.com/69136340/112576567-e0bfa900-8e35-11eb-9dd9-de48ad87768b.png" width="500">
+
 참고ㅣhttps://gmlwjd9405.github.io/2018/05/11/types-of-git-branch.html
