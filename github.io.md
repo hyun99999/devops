@@ -65,7 +65,7 @@ $ git push origin master
 - build fail
 <p>
 <img src="https://user-images.githubusercontent.com/69136340/112755848-8123f200-901d-11eb-9744-d2f229c24605.png" width="500">
-<img src="https://user-images.githubusercontent.com/69136340/112755850-83864c00-901d-11eb-8d00-08a23b70a002.png" width="500">
+<img src="https://user-images.githubusercontent.com/69136340/112755873-9731b280-901d-11eb-8fdc-ade4a84798bb.png" width="500">
 </p>
 
 ### 출처
