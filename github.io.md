@@ -75,7 +75,20 @@ https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#github-page
 
 <img src = "https://user-images.githubusercontent.com/69136340/112839786-89416780-90d9-11eb-8733-829b575560fc.png" width ="500">
 
+## 새 글 작성
+- `_posts` 디렉토리에 새 파일을 만듬.
+```swift
+Jekyll 이 이 파일을 블로그 포스트로 인식하게 하려면 파일명을 다음 형식에 맞춰야 합니다:
+YEAR-MONTH-DAY-title.MARKUP
+
+여기서 YEAR 는 네 자리의 숫자, MONTH 와 DAY 는 두 자리 숫자이고, 확장자 부분의 MARKUP 은 파일에 사용된 마크다운 포맷입니다. 올바른 포스트 파일명을 예로 들면 다음과 같습니다
+2011-12-31-new-years-eve-is-awesome.md
+2012-09-12-how-to-write-a-blog.md
+```
+
 ### 출처
 출처ㅣhttps://jetalog.net/87?category=808871
+
+출처ㅣhttps://jekyllrb-ko.github.io/docs/posts/
 
 출처ㅣ[choi2]https://iamcho2.github.io/2020/09/16/make-my-own-github-blog
