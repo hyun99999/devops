@@ -68,6 +68,13 @@ $ git push origin master
 <img src="https://user-images.githubusercontent.com/69136340/112755873-9731b280-901d-11eb-8fdc-ade4a84798bb.png" width="500">
 </p>
 
+https://github.com/mmistakes/minimal-mistakes#remote-theme-method
+
+로 해결.
+
+<img src = "https://user-images.githubusercontent.com/69136340/112839786-89416780-90d9-11eb-8733-829b575560fc.png" width ="500">
+
 ### 출처
 출처ㅣhttps://jetalog.net/87?category=808871
+
 출처ㅣ[choi2]https://iamcho2.github.io/2020/09/16/make-my-own-github-blog
