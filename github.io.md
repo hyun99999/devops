@@ -69,8 +69,9 @@ $ git push origin master
 </p>
 
 https://github.com/mmistakes/minimal-mistakes#remote-theme-method
+https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#github-pages-method
 
-로 해결.
+참조해서 해결.
 
 <img src = "https://user-images.githubusercontent.com/69136340/112839786-89416780-90d9-11eb-8733-829b575560fc.png" width ="500">
 
